@@ -13,7 +13,7 @@ export function AcademicFooter() {
             <div className="space-y-2 text-background/80">
               <p><strong>Title:</strong> Predictive Modelling of Population Growth Using Recurrence Relations</p>
               <p><strong>Course:</strong> Discrete Mathematics</p>
-              <p><strong>Academic Year:</strong> 2024-2025</p>
+              <p><strong>Academic Year:</strong> 2025-2026</p>
             </div>
           </div>
           
@@ -23,9 +23,9 @@ export function AcademicFooter() {
               Project Team
             </h3>
             <div className="space-y-2 text-background/80">
-              <p><strong>Student:</strong> [Student Name]</p>
-              <p><strong>Guide:</strong> [Faculty Guide Name]</p>
-              <p><strong>Department:</strong> Computer Science & Engineering</p>
+              <p><strong>Student:</strong> [B. Yash, P. Sai Suchindra, A. Vignesh]</p>
+              <p><strong>Guide:</strong> [P. Kishor Reddy]</p>
+              <p><strong>Department:</strong> Computer Science & Engineering With AI & ML</p>
             </div>
           </div>
         </div>
