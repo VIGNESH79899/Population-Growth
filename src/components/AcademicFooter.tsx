@@ -24,7 +24,7 @@ export function AcademicFooter() {
             </h3>
             <div className="space-y-2 text-background/80">
               <p><strong>Student:</strong> [B. Yash, P. Sai Suchindra, A. Vignesh]</p>
-              <p><strong>Guide:</strong> [P. Kishor Reddy]</p>
+              <p><strong>Guide:</strong> [P. Kishore Reddy]</p>
               <p><strong>Department:</strong> Computer Science & Engineering With AI & ML</p>
             </div>
           </div>
