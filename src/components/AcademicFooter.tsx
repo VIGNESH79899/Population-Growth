@@ -14,7 +14,6 @@ export function AcademicFooter() {
               <p><strong>Title:</strong> Predictive Modelling of Population Growth Using Recurrence Relations</p>
               <p><strong>Course:</strong> Discrete Mathematics</p>
               <p><strong>Academic Year:</strong> 2025-2026</p>
-              <p><strong>Term:</strong>II</p>
             </div>
           </div>
           
